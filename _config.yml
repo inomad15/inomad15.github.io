@@ -13,16 +13,16 @@ highlighter: pygments
 gems: [jekyll-paginate]
 
 # comments
-disqus: # add disqus shortname here
+disqus: inomad15 # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: # your name
+author: inomad # your name
 bio:    # your bio
 email:
 email_md5: # md5 hash of your email
-twitter_username:
-github_username:
+twitter_username: dentchb
+github_username: inomad15
 
 # Theming options
 # These settings are mandatory.
