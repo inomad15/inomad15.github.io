@@ -3,6 +3,7 @@
 ---
 @charset "utf-8";
 
+<<<<<<< HEAD
 
 
 // Our variables
@@ -43,11 +44,19 @@ $on-laptop:        800px;
     }
 }
 
+=======
+$primary-color:     #2196F3;
+$accent-color:      #FFEB3B;
+$grey-color:        #828282;
+>>>>>>> origin/master
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+<<<<<<< HEAD
         "base",
+=======
+>>>>>>> origin/master
         "layout",
         "syntax-highlighting"
 ;
