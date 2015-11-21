@@ -6,7 +6,7 @@ date: 2014-08-01 21:00:00
 
 <div id="toc"><p class="toc_title">목차</p></div>
 
-* _공유된 번역 글과 사이트를 **기술과 경영 카테고리별**로 개인적으로 모은 페이지입니다. 직접 링크를 추가하고 싶으신 분이나 다른 카테고리의 글을 위해서 [별도 위키](https://github.com/nolboo/nolboo.github.io/wiki)를 이용하세요~_
+* _공유된 번역 글과 사이트를 **기술과 경영 카테고리별**로 개인적으로 모은 페이지입니다. 직접 링크를 추가하고 싶으신 분이나 다른 카테고리의 글을 위해서 [별도 위키](https://github.com/inomad15/inomad15.github.io/wiki)를 이용하세요~_
 * 위의 공지에도 아직도 많은 분들이 이 페이지로 찾아오셔니 한달에 한번 정도는 위키의 데이타를 여기에도 업데이트합니다.
 
 ---
@@ -184,8 +184,8 @@ date: 2014-08-01 21:00:00
 [JavaScript. The Core](http://frends.kr/post/javascript-the-core/) - 원문 : [JavaScript. The core.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
 
 
-[[번역] ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://huns.me/%EB%B2%88%EC%97%AD-ecma-262-3-in-detail-chapter-1-execution-contexts/) 
- 
+[[번역] ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://huns.me/%EB%B2%88%EC%97%AD-ecma-262-3-in-detail-chapter-1-execution-contexts/)
+
 [[번역] ECMA-262-3 in detail. Chapter 2. Variable object.](http://huns.me/%EB%B2%88%EC%97%AD-ecma-262-3-in-detail-chapter-2-variable-object/)  
 
 [[번역] ECMA-262-3 in detail. Chapter 3. This.](http://huns.me/ecma-262-3-in-detail-chapter-3-this/)  
@@ -208,7 +208,7 @@ date: 2014-08-01 21:00:00
 
 [자바스크립트의 변수범위와 호이스팅](http://chanlee.github.io/post/javascript-variable-scope-and-hoisting/) - 원문 : [JavaScript Variable Scope and Hoisting Explained](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 
-[자바스크립트 클로저 쉽게 이해하기](http://chanlee.github.io/post/understand-javascript-closure/) - 원문 : [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/) 
+[자바스크립트 클로저 쉽게 이해하기](http://chanlee.github.io/post/understand-javascript-closure/) - 원문 : [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 
 ### Framework
 
@@ -461,7 +461,7 @@ Personal Summary](http://samizdat.mines.edu/howto/HowToBeAProgrammer.pdf)
 
 [Reset 확실히 배우기](http://bit.ly/1bpCrcC) - 원문 : [Reset Demystified](http://git-scm.com/blog/2011/07/11/reset.html)
 
-[깃허브 완전 초보](http://j.mp/18GPAt2) - 원문 : 
+[깃허브 완전 초보](http://j.mp/18GPAt2) - 원문 :
 
 1.  [GitHub For Beginners: Don’t Get Scared, Get Started](http://j.mp/1g3el6I)
 2.  [GitHub For Beginners: Commit, Push And Go](http://j.mp/GzCMeO)
@@ -500,7 +500,7 @@ Personal Summary](http://samizdat.mines.edu/howto/HowToBeAProgrammer.pdf)
 
 ## Java
 
-[Java™ Platform, Standard Edition 7 API 사양](http://www.changki.com/APIs/J2SE_1.7_API_Korean/index.html) - 원문 : 
+[Java™ Platform, Standard Edition 7 API 사양](http://www.changki.com/APIs/J2SE_1.7_API_Korean/index.html) - 원문 :
 
 [The Grails Framework - Reference Documentation 1.0](http://dogfeet.github.io/grails-doc/guide/) - 원문 : [The Grails Framework - Reference Documentation](http://grails.org/doc/latest/)
 
