@@ -1,38 +1,32 @@
-# Site settings
 title: inomad
-description: > # this means to ignore newlines until "baseurl:"
-  A gentle theme for Jekyll utilising material design.
-baseurl: "/" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
 
-# Build settings
-markdown: kramdown
-paginate: 5 # pagination based on number of posts
-paginate_path: "page/:num"
+# Oveerriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
+safe: true
 highlighter: pygments
-gems: [jekyll-paginate]
+lsi: false
 
-# comments
-disqus: inomad15 # add disqus shortname here
+permalink: pretty
 
-# author info
-# add your appropriate info here
-author: inomad # your name
-bio:    # your bio
-email:
-email_md5: # md5 hash of your email
-twitter_username: dentchb
-github_username: inomad15
+markdown:     redcarpet
 
-# Theming options
-# These settings are mandatory.
-theme:              'blue-pink'
-# drawer theming
-drawer:
-  text_color:       'grey-600'
-  header_color:     'blue-500'
-  navigation_color: 'grey-200'
-# footer theming
-footer:
-  text_color: 'blue-grey-200'
-  color: 'blue-grey-600'
+redcarpet:
+    extensions:
+      - no_intra_emphasis
+      - fenced_code_blocks
+      - tables
+      - strikethrough
+      - superscript
+      - autolink
+      - hard_wrap
+
+# redcarpet:
+#    extensions: ["smart"]
+
+gems:
+  - jemoji
+
+paginate: 10
+
+author:
+    twitter: dentchb
+    github: inomad15
