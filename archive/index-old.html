@@ -1,0 +1,16 @@
+---
+layout: default
+title: inomad's Blog
+description: 인터넷 노마드를 꿈꾸며
+---
+
+<article>
+	<ul>
+	  {% for post in site.posts reversed %}
+	    <li data-index="{{ post.title | downcase }}">
+	      <a href="{{ post.url }}">{{ post.title }}</a>
+	      <div><small>{{ post.date | date_to_string }}</small></div>
+	    </li>
+	  {% endfor %}
+	</ul>
+</article>
